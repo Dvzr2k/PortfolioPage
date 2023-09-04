@@ -2,8 +2,8 @@
 Version 1.0 of my portfolio page
 
 ## Technologies
--HTML
--CSS
+:heavy_check_mark:HTML.
+:heavy_check_mark:CSS.
 
 ## Screenshots
 
@@ -12,6 +12,9 @@ Version 1.0 of my portfolio page
 ![image](https://github.com/Dvzr2k/PortfolioPage/assets/129244345/07c95329-aef1-4516-a14f-e3661c0deded)
 
 ![image](https://github.com/Dvzr2k/PortfolioPage/assets/129244345/0b12d303-7a7d-4bea-b92d-81f3415957d5)
+
+![image](https://github.com/Dvzr2k/PortfolioPage/assets/129244345/3985c859-e6da-498d-9dfb-cae25794f997)
+
 
 
 
